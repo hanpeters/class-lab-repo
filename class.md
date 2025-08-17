@@ -1,5 +1,5 @@
 ## Class Information
-- Name: Han
+- Name: Han Peters
 - Certification: Fullstack web developer
 
 ## Instructions
